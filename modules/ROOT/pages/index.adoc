@@ -1,0 +1,26 @@
+= Về trang này
+
+// Config for asciidoctor
+:doctype: article
+:stem:
+
+Trang này mình sẽ cố gắng ghi lại những nội dung mà mình được học tại trường. Đồng thời, đây cũng
+là chỗ mình để lại những thông tin tự tìm hiểu thêm. Đồng thời, mình cũng sẽ không chia sẻ các tệp
+tài liệu gốc.
+
+CAUTION: Độ chính xác của nội dung không được đảm bảo về độ chính xác và cũng không có bất kì sự
+tham vấn từ người khác. Vui lòng không **tin tưởng tuyệt đối** những thứ ở đây.
+
+== Các môn học
+
+NOTE: Các môn học ở học kì 1 sẽ không có ở đây do mình không có ghi chép lại.
+
+=== Cấu trúc rời rạc
+
+=== Lập trình hướng đối tượng
+
+=== Nhập môn mạch số
+
+=== Pháp luật đại cương
+
+=== Xác suất -- thông kê
